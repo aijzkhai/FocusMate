@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814845484849",
+    "project_id": "focusmate-edde4",
+    "storage_bucket": "focusmate-edde4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814845484849:android:028af3e247029ad1635a10",
+        "android_client_info": {
+          "package_name": "com.example.meow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo0sye1UlH9BomDs7o3Fv8pkEHBpmlTc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

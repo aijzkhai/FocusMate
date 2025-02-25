@@ -51,9 +51,14 @@
         <dict>
             <key>CFBundleURLSchemes</key>
             <array>
-                <string>YOUR-REVERSED-CLIENT-ID</string>
+                <string>REVERSED_CLIENT_ID_FROM_GOOGLESERVICE_INFO_PLIST</string>
             </array>
         </dict>
+    </array>
+    <key>UIBackgroundModes</key>
+    <array>
+        <string>fetch</string>
+        <string>remote-notification</string>
     </array>
 </dict>
 </plist>
